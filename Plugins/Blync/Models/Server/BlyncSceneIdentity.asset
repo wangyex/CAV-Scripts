@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1328161528, guid: 687342cf62e14964f9620e5dc2866afa, type: 3}
+  m_Name: BlyncSceneIdentity
+  m_EditorClassIdentifier: 
+  appId: c807ff30-0e29-11ef-ae3f-6397bbe96ea8
+  sceneId: 8a638d10-0e2a-11ef-baaf-95efcb409e7b
